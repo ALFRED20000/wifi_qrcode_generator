@@ -19,6 +19,7 @@ qr_code = wifi_qrcode_generator.generator.wifi_qrcode(
 qr_code.print_ascii()
 qr_code.make_image().save('wifi_qr.png')
 
+![QR Code](wifi_qr.png)
 
 
 ## Dependencies
